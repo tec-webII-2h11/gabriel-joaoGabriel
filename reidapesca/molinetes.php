@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<?php include "data.inc";?>
+<meta charset="utf-8"/>
+<link rel="stylesheet" type="text/css" href="estilo.css">
+<title>Rei da Pesca</title>
+</head>
+<body>
+<?php include "header.inc";?>
+<?php include "menu.inc";?>
+<br/><br/>
+<hr>
+<h1>Molinetes</h1>
+<p>As características do molinete fazem dele o equipamento ideal para os iniciantes. São fáceis de manejar, fáceis de arremessar e não formam “cabeleira” – linha solta e embolada no carretel. Seu melhor desempenho é em pescarias leves (peixes menores), embora existam modelos, como o “extra-pesado”, que suportam linha acima de 25 libras, usadas para peixes maiores.
+Eles também são indicados para pescarias em dias de muito vento, pois, nessas condições, garantem maior precisão aos arremessos.</p>
+<p><img src="imagens/gear.jpg" align=left hspace="10"><h3>Gear Ratio:</h3> A expressão em inglês “Gear ratio ” indica a relação de recolhimento.<br/><br/>
+Exemplo: Se o seu molinete vier com a nomenclatura Gear 4.3:1 – indica que para cada volta que você da na manivela são dadas 4,3 voltas no carretel.
+<br/><br/>Essa relação é muito importante quando se pesca com iscas artificias, especialmente as de arrasto como hélices e jigs.</p>
+<p><img src="imagens/carreteis.jpg" align=left hspace="10"><h3>Carretéis:</h3> Supondo-se que diferentes molinetes da mesma categoria, de tamanhos equivalentes, estejam adequadamente abastecidos com linha de igual espessura, os melhores arremessos serão feitos com aqueles dotados de carretel mais largo, entendendo-se como largura a distância entre os flanges (rebordos do carretel).<br/><br/>Um carretel largo e raso solta melhor a linha do que um carretel estreito e fundo. O ideal é que o carretel esteja abastecido com linha até o seu limite, isso melhora o desempenho na hora do arremesso.</p>
+<p><img src="imagens/rolamento.jpg" align=left hspace="10"><h3>Rolamento:</h3>A expressão em inglês “Ball bearing ” indica ser um molinete com rolamentos. Dependendo do modelo, eles podem também ser blindados ou marinizados.<br/><br/>Um carretel largo e raso solta melhor a linha do que um carretel estreito e fundo. O ideal é que o carretel esteja abastecido com linha até o seu limite, isso melhora o desempenho na hora do arremesso.</p>
+<p><h3>Colocando a linha:</h3>A colocação de linha em um molinete requer um pouco de cuidado para não o fazermos com a linha torcida. Se nas primeiras voltas você reparar que a linha está torcendo, corrija virando o carretel e voltando a abastecer.<br/><br/>Caso se disponha de carretéis sobressalentes, recomenda-se abastecê-los com linhas de espessuras diferentes, aumentando os recursos do equipamento. Mas, em qualquer caso, o mais importante é que o carretel esteja carregado corretamente, cheio mas sem excessos, até o limite adequado, possibilitando uma boa saída de linha.<br/><br/>Linha demais resultará em “cabeleira”, ao passo que linha de menos impedirá bons arremessos por causa do excessivo atrito contra o flange do carretel. O limite máximo aceitável é onde começa a curvatura da borda da flange, onde a linha se acomoda sem escorregar e sem se afrouxar. Passando deste ponto, a linha escorregará e não se assentará porque estará sobre a borda do flange.</p>
+<p><img src="imagens/friccao.jpg" align=left hspace="10"><h3>Regulando a fricção:</h3>Um aspecto bastante importante é a regulagem da fricção, que deve ser feita a ¼ de resistência da linha usada ou da vara, quando esta for de resistência menor que a linha. Exemplo: se você abasteceu o seu molinete com linha de 12 libras de resistência, o seu ajuste deverá ser de 3 libras.<br/><br/>Para executar esse ajuste, monte seu conjunto vara, molinete e a linha passada, coloque uma balança na ponta da linha e aplique pressão na vara. Ela deverá acusar as 3 libras quando começar a soltar linha e, caso a marcação seja inferior, girar o botão de regulagem de forma a apertar mais a fricção até atingir as 3 libras.<br/><br/>Para executar esse ajuste, monte seu conjunto vara, molinete e a linha passada, coloque uma balança na ponta da linha e aplique pressão na vara. Ela deverá acusar as 3 libras quando começar a soltar linha e, caso a marcação seja inferior, girar o botão de regulagem de forma a apertar mais a fricção até atingir as 3 libras.</p>
+<p><h3>Arremessando com seu molinete:</h3>Para executar o arremesso é necessário prender a linha junto à vara de pesca, usando o dedo indicador. A seguir, levante o pick-up e proceda ao arremesso. Após concluí-lo, vire a manivela para ativar o pick-up. O carretel deve estar o mais distante da base e a linha deve estar em posição perpendicular ao carretel (ângulo de 90º) para que o arremesso atinja maiores distâncias.</p>
+<p><h3>Recolhendo a linha:</h3>Ao recolher a linha, o movimento da manivela deve ser feito com pressão de fora para dentro, a fim de não forçar e deslocar a união coroa x pinhão. Evite o manuseio excessivo do libertador do anti-recuo. Além disto, a borboleta de freio é uma peça de fácil recepção à água salgada, quando de mãos molhadas a ativamos para os lançamentos da linha.</p>
+<p><h3>Freando a isca no ar:</h3>No molinete, utiliza-se o dedo que segura a linha antes de abrir o arco para o lançamento, mantendo-o próximo do carretel da mesma forma que na carretilha, ou seja, sentindo a saída da linha e pressionando o carretel levemente para controlar a liberação desta. Aperte mais se sentir que vai passar o ponto desejado ou libere no caso contrário. Um dificuldade maior terá o pescador com mãos pequenas, pois não alcançará o carretel em alguns molinetes.</p>
+<div align="center"><img src="imagens/molinetes.jpg" ></div>
+<p><h3>Cuidados de manutenção:</h3>Alguns cuidados de manutenção são importantes para o bom funcionamento do seu molinete. Após usá-lo, trave a fricção e lave-o em água corrente usando uma escova macia, com atenção para o guia fio e manivela, locais onde pode acumular sujeira como barro ou areia. Após secá-lo, lubrifique-o com uma gota de óleo tipo “Singer”.<br/><br/>Alguns pontos devem receber um pouco de graxa de consistência fina. A lubrificação externa do molinete merece um cuidado especial e só deve ser feita sem o carretel, para evitar o contato do óleo com o nylon. Lubrifique parafusos, controlador de anti-recuo, engrenagens de freio, guarda-linha, manivelas e evite graxas nas áreas externas para dificultar a aderência de areia ou outras partículas.<br/><br/>Não use excessivamente óleos e graxas para evitar vazamentos. Após um pescaria em água salgada, molhe levemente um pano com silicone, arremesse em seco e recolha a linha passando-a dentro do pano com silicone, isso evitará o ressecamento do nylon.</p>
+<hr>
+<?php include "footer.inc";?>
+
+</body>
+</html>
